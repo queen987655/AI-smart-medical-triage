@@ -115,6 +115,7 @@ The project aims to demonstrate healthcare interoperability, AI-assisted triage 
 │ CDS Hooks Alert    │
 └────────────────────┘
 ```
+---
 
 ## Project Structure
 
@@ -138,6 +139,7 @@ ai-smart-medical-triage
 │
 └── README.md
 ```
+---
 
 ## FHIR Resource Relationship
 
@@ -156,6 +158,7 @@ Patient
           │
           └── Google Gemini
 ```
+---
 
 ## API Endpoints
 ### Triage API
@@ -178,14 +181,16 @@ Patient
 |--------|----------|-------------|
 | POST | `/api/cds-services/patient-triage-check` | Generate CDS cards |
 
+---
+
 ## Screenshots
 ### Patientview
 
 ![Patientview](./screenshots/patientview.png)
 
-### AI-dashboard
+### AI dashboard
 
-![AI-dashboard](./screenshots/AI-dashboard.png)
+![AI dashboard](./screenshots/AI-dashboard.png)
 
 ### Doctorview
 
