@@ -172,17 +172,17 @@ ai-smart-medical-triage
 ```
 ## Screenshots
 
-### Patient Application
+### Patientview
 
-![Patient App](./screenshots/patientview.png)
+![Patientview](./screenshots/patientview.png)
 
-### AI Analysis Result
+### AI-dashboard
 
-![AI Analysis](./screenshots/AI-dashboard.png)
+![AI-dashboard](./screenshots/AI-dashboard.png)
 
-### Doctor EHR Dashboard
+### Doctorview
 
-![EHR Dashboard](./screenshots/doctorview.png.png)
+![Doctorview](./screenshots/doctorview.png.png)
 
 ### Host
 
