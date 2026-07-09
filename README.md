@@ -190,7 +190,7 @@ Patient
 
 ### AI dashboard
 
-![AI dashboard](./screenshots/AI-dashboard.png)
+![AI dashboard](./screenshots/ai-dashboard.png)
 
 ### Doctorview
 
@@ -198,7 +198,7 @@ Patient
 
 ### Host
 
-![Host](./screenshots/Host.png)
+![Host](./screenshots/host.png)
 
 ## Author
 
