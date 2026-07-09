@@ -200,6 +200,8 @@ Patient
 
 ![Host](./screenshots/host.png)
 
+---
+
 ## Author
 
 Pei-Yu Hsu
